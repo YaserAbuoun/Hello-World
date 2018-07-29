@@ -1,2 +1,3 @@
-# Hello-World
-Wellcome
+cd YaserAbuoun.github.io
+
+echo "Hello World" > index.html
